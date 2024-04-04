@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.hero-desc-box {
+  clip-path: polygon(5% 0, 100% 0, 100% 90%, 95% 100%, 0 100%, 0 10%);
+}
+
+.ability-desc-box {
+  clip-path: polygon(5% 0, 100% 0, 100% 90%, 100% 100%, 0% 100%, 0 10%);
+}
